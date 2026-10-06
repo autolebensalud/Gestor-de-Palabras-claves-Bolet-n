@@ -1,0 +1,42 @@
+{
+  "neuquenLocal": {
+    "id": "neuquenLocal",
+    "name": "Boletines Neuquén (Ciudad y Provincia)",
+    "description": "Alertas locales (Medios e Impuestos)",
+    "keywords": [
+      "publicidad",
+      "radio",
+      "television",
+      "impuesto"
+    ],
+    "emails": [
+      "destinatario@ejemplo.com"
+    ]
+  },
+  "boraGroup1": {
+    "id": "boraGroup1",
+    "name": "BORA: Vaca Muerta / Energía",
+    "description": "Boletín Oficial de la República Argentina (Sector Energético)",
+    "keywords": [
+      "vaca muerta",
+      "energia",
+      "hidrocarburos"
+    ],
+    "emails": [
+      "destinatario@ejemplo.com"
+    ]
+  },
+  "boraGroup2": {
+    "id": "boraGroup2",
+    "name": "BORA: Neuquén / Río Negro",
+    "description": "Boletín Oficial de la República Argentina (Regiones)",
+    "keywords": [
+      "neuquen",
+      "rio negro"
+    ],
+    "emails": [
+      "destinatario@ejemplo.com"
+    ]
+  },
+  "individuals": []
+}

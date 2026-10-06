@@ -1,0 +1,29 @@
+node_modules/
+config.json
+*.xlsx
+*.log
+.env
+palavras_clave.xlsx
+
+# Scripts de generación interna (artefactos de desarrollo, no parte del producto)
+generate_advanced_json.js
+generate_n8n_json.js
+generate_n8n_ssh.js
+patch_html.js
+patch_server.js
+
+# Flows intermedios / versiones antiguas
+flow1.json
+flow1_advanced.json
+flow1_ssh.json
+flow2.json
+flow2_advanced.json
+flow2_ssh.json
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
